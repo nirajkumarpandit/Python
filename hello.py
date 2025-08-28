@@ -1,0 +1,1 @@
+print(" I am Niraj kumar pandit and i am 3rd year student  ")
